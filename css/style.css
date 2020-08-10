@@ -206,7 +206,7 @@ h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  /* background: #f5f8fd url("https://iittp.ac.in/images/demo/iit/Other/logoupdated.png") center  no-repeat; */
+  background: #f5f8fd url("https://iittp.ac.in/images/demo/iit/Other/logoupdated.png") center  no-repeat;
   background-size: auto;
 }
 
@@ -631,22 +631,22 @@ h6 {
 /* Why Us Section
 --------------------------------*/
 
-#why-us {
+#network-with-us {
   padding: 60px 0;
 }
 
-#why-us .why-us-content .features {
+#network-with-us .network-with-us-content .features {
   margin: 0 0 15px 0;
   padding: 0;
   transition: 0.3s ease-in-out;
 }
 
-#why-us .why-us-content .features i {
+#network-with-us .network-with-us-content .features i {
   font-size: 36px;
   float: left;
 }
 
-#why-us .why-us-content .features h4 {
+#network-with-us .network-with-us-content .features h4 {
   font-size: 24px;
   font-weight: 600;
   margin-left: 56px;
@@ -654,17 +654,17 @@ h6 {
   margin-bottom: 5px;
 }
 
-#why-us .why-us-content .features p {
+#network-with-us .network-with-us-content .features p {
   font-size: 16px;
   margin-left: 56px;
   color: #555186;
 }
 
-#why-us .counters {
+#network-with-us .counters {
   padding-top: 40px;
 }
 
-#why-us .counters span {
+#network-with-us .counters span {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 48px;
@@ -672,7 +672,7 @@ h6 {
   color: #555186;
 }
 
-#why-us .counters p {
+#network-with-us .counters p {
   padding: 0;
   margin: 0 0 20px 0;
   font-family: "Montserrat", sans-serif;
@@ -1011,31 +1011,31 @@ h6 {
   margin: 0 2px;
 }
 
-/* Clients Section
+/* collaborations Section
 --------------------------------*/
 
-#clients {
+#collaborations {
   padding: 60px 0;
 }
 
-#clients img {
+#collaborations img {
   max-width: 80%;
   opacity: 0.5;
   transition: 0.3s;
   padding: 15px 0;
 }
 
-#clients img:hover {
+#collaborations img:hover {
   opacity: 1;
 }
 
-#clients .owl-nav,
-#clients .owl-dots {
+#collaborations .owl-nav,
+#collaborations .owl-dots {
   margin-top: 5px;
   text-align: center;
 }
 
-#clients .owl-dot {
+#collaborations .owl-dot {
   display: inline-block;
   margin: 0 5px;
   width: 12px;
@@ -1044,7 +1044,7 @@ h6 {
   background-color: #ddd;
 }
 
-#clients .owl-dot.active {
+#collaborations .owl-dot.active {
   background-color: #343A40;
 }
 
@@ -1490,7 +1490,7 @@ h6 {
     text-transform: uppercase;
   }
 
-  #why-us .why-us-content {
+  #network-with-us .network-with-us-content {
     padding-top: 30px;
   }
 
