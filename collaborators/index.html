@@ -24,7 +24,29 @@
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
   <link href="css/style.css" rel="stylesheet">
-
+  <style>
+    ::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+/* Track */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #343A40; 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: rgba(255,0,0,0.4); 
+}
+  </style>
 
 </head>
 
@@ -39,7 +61,7 @@
 
         <div class="section-header">
           <h3>Our Collaborators</h3>
-          <p>1-2 lines about the collaboration</p>
+          <p>Our local and regional organizations help us strengthen our goal towards a better nation</p>
         </div>
 
         <div class="row no-gutters clients-wrap clearfix wow fadeInUp">

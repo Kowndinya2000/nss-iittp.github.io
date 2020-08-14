@@ -198,9 +198,6 @@ h6 {
   margin-top: 60px;
 }
 
-/*--------------------------------------------------------------
-# Intro Section
---------------------------------------------------------------*/
 
 #intro {
   width: 100%;
@@ -242,11 +239,6 @@ h6 {
   background: #0a98c0;
 }
 
-/*--------------------------------------------------------------
-# Navigation Menu
---------------------------------------------------------------*/
-
-/* Desktop Navigation */
 
 .main-nav {
   /* Drop Down */
@@ -351,7 +343,6 @@ h6 {
   right: 15px;
 }
 
-/* Mobile Navigation */
 
 .mobile-nav {
   position: fixed;
@@ -456,12 +447,6 @@ h6 {
   color: #fff;
 }
 
-/*--------------------------------------------------------------
-# Sections
---------------------------------------------------------------*/
-
-/* Sections Header
---------------------------------*/
 
 .section-header h3 {
   font-size: 36px;
@@ -481,15 +466,11 @@ h6 {
   width: 50%;
 }
 
-/* Section with background
---------------------------------*/
 
 .section-bg {
   background: #f5f8fd;
 }
 
-/* About Us Section
---------------------------------*/
 
 #about {
   padding: 80px 0;
@@ -568,8 +549,6 @@ h6 {
   transition: .5s;
 }
 
-/* Services Section
---------------------------------*/
 
 #services {
   padding: 60px 0 40px 0;
@@ -628,8 +607,6 @@ h6 {
   text-align: left;
 }
 
-/* Why Us Section
---------------------------------*/
 
 #network-with-us {
   padding: 60px 0;
@@ -680,8 +657,6 @@ h6 {
   color: #8a87b6;
 }
 
-/* Call To Action Section
---------------------------------*/
 
 #call-to-action {
   background: #2d2b46;
@@ -718,8 +693,6 @@ h6 {
   border: 3px solid #343A40;
 }
 
-/* Features Section
---------------------------------*/
 
 #features {
   padding: 80px 0;
@@ -730,8 +703,6 @@ h6 {
   font-size: 24px;
 }
 
-/* Portfolio Section
---------------------------------*/
 
 #portfolio {
   padding: 60px 0;
@@ -872,8 +843,6 @@ h6 {
   opacity: 1;
 }
 
-/* Testimonials Section
---------------------------------*/
 
 #testimonials {
   padding: 60px 0;
@@ -928,9 +897,6 @@ h6 {
 #testimonials .owl-dot.active {
   background-color: #343A40;
 }
-
-/* Team Section
---------------------------------*/
 
 #team {
   padding: 60px 0;
